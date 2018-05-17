@@ -1,2 +1,5 @@
-# IEEE-Research-Paper
-Published an IEEE Research Paper in International Conference On Soft Computing, Coimbatore (TN)
+# Published an IEEE Research Paper in *International Conference* On Soft Computing, Coimbatore (TamilNadu)
+-----
+----- 
+**Object recognition technology has matured to a point at which exciting applications have become possible. Indeed, industry has created a variety of computer vision products and services from the traditional area of machine inspection to more recent applications such as object detection, video surveillance, or face recognition. This paper is about achieving the goal of object recognition through advanced techniques like deep learning on handy devices like smartphones and tablets. *Deep learning* algorithms *(Convolutional Neural Networks (CNN))* are used for the primary aim of object recognition.
+Images are clicked through the camera of the smartphone during experimentation and are fed to the CNN network. The top four results predicted by the network are depicted on the smartphone screen in the audio and the visual form i.e. predicted object name and the probability of predicted object being the one actually clicked in the decreasing order of probabilities. The accuracy obtained in object recognition is about *93%* through the application.**
